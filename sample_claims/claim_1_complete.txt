@@ -1,0 +1,7 @@
+Claim ID: CLM-1001
+Policy Number: POL-5001
+Claimant: Rahul Sharma
+Policy Status: Active
+Claim Amount: 25000
+Documents: Policy Document, Claim Form, Incident Report, Identity Proof, Repair Estimate
+Notes: Accident reported during active policy period. Documents appear complete.

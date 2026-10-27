@@ -1,0 +1,7 @@
+Claim ID: CLM-1003
+Policy Number: POL-5003
+Claimant: Amit Verma
+Policy Status: Active
+Claim Amount: 150000
+Documents: Policy Document, Claim Form, Incident Report, Identity Proof, Repair Estimate
+Notes: High-value claim requiring additional review.

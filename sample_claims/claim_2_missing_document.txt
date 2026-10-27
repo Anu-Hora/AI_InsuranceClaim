@@ -1,0 +1,7 @@
+Claim ID: CLM-1002
+Policy Number: POL-5002
+Claimant: Priya Singh
+Policy Status: Active
+Claim Amount: 20000
+Documents: Policy Document, Claim Form, Identity Proof, Repair Estimate
+Notes: Incident Report is not available.
